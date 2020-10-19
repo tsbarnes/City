@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=City
+Comment=Made with oomox
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=City
+GtkTheme=City
+IconTheme=City
+MetacityTheme=City
